@@ -1,0 +1,15 @@
+{
+  "name": "homework-week7",
+  "version": "1.0.0",
+  "description": "",
+  "main": "rumus.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ansi-colors": "^4.1.3"
+  }
+}
